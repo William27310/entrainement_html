@@ -1,0 +1,45 @@
+main {
+    width: 100vw;
+    height: 60vh;
+    display: table-cell;
+    vertical-align: middle;
+    border: 2px solid black;
+}
+h1,h3 {
+    text-align: center;
+}
+
+.contact, .horaires, .map {
+    display: inline-block;
+    width: 32.70vw;
+    vertical-align: middle;
+    border: 2px solid black;
+}
+
+footer {
+    height: 40vh;
+    background-color: grey;
+}
+
+.map {
+    text-align: center;
+}
+
+.contact {
+    text-align: center;
+}
+
+.mca {
+    text-align: center;
+}
+
+.horaires {
+    text-align: center ;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+th {
+    text-align: left;
+    padding-left: 10rem;
+}
