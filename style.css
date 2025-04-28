@@ -1,0 +1,25 @@
+.cookie {
+    text-align: center;
+    
+}
+
+p {
+    display: inline;
+}
+
+hr {
+    margin: 5rem;
+}
+
+.icons {
+    text-align: center;
+    margin: 1rem;
+}
+
+ul, li {
+    list-style-type: none;
+}
+
+h1, h2 {
+    text-align: center;
+}
