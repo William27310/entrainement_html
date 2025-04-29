@@ -1,25 +1,23 @@
-.cookie {
-    text-align: center;
-    
+nav {
+    width: 100vw;
+    height: 10vh;
+    display: table-cell;
+    border: 2px solid black;
+    background-color: green;
 }
 
+ul,
 p {
-    display: inline;
-}
-
-hr {
-    margin: 5rem;
-}
-
-.icons {
-    text-align: center;
+    display: inline-block;
     margin: 1rem;
-}
-
-ul, li {
-    list-style-type: none;
+    padding-left: 0.5rem;
 }
 
 h1, h2 {
-    text-align: center;
+    margin-top: 5rem;
+}
+
+button {
+    background-color: aqua;
+    margin-top: 2rem;
 }
